@@ -10,9 +10,46 @@ header{
         flex-direction: column;
     }
 
-    .banner{
+.banner{
         width: 335px;
         height: 483px;
+        background-position: center;
+}
+.banner-container{
+    text-align: center;
+    padding: 14px 24px;
+    justify-content: center;
+ }
+.banner-container-title{
+        font-size: 22px;     
+}
+.banner-container-description{
+    font-size: 14px;
+}
+.form-fillup{
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    justify-content: center;
+    padding: 16px;
+    gap: 16px;
+    width: 200px;
+    margin-left: 30px;
+}
+.repeat{
+    width: 190px;
+    height: 30px;
+    justify-content: center;
+    
+}
+.find-now{
+    width: 200px;
+    height: 50px;
+    padding: 20px;
+}
 
-    }
+
+
+
+
 }
