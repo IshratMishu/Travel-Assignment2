@@ -172,3 +172,94 @@ nav{
     font-weight: 800;
     padding: 14px 34px;
 }
+
+
+.destination-section{
+    margin: 50px 135px 0 135px;
+    width: 100%;
+}
+
+.destination{
+    text-align: center;
+}
+.row{
+    height: 310px;
+    width: 100%;
+    display: flex;
+    gap: 24px;
+    justify-content: space-around;
+}
+
+.destination-container{
+    display: grid;
+    gap: 24px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+ .maldives, .indonesia, .srilanka, .northamerica, .kashmir, .bangladesh, .bandarban
+  {
+    text-align: center;
+    color: #FFF;
+    font-size: 28px;
+    font-weight: 800;
+    position: absolute;
+  }
+
+  .maldives{
+    left: 400px;
+    top: 1650px;
+  }
+
+  .maldives:hover{
+    transform:scale(2.5)
+  }
+
+.indonesia{
+    left: 1050px;
+    top: 1650px;
+  }
+
+  .indonesia:hover{
+    transform:scale(2.5)
+  }
+
+.srilanka{
+    left: 300px;
+    top: 2000px;
+}
+
+.srilanka:hover{
+    transform:scale(2.5)
+  }
+
+.northamerica{
+    left: 720px;
+    top: 2000px;
+}
+.northamerica:hover{
+    transform:scale(2.1)
+}
+
+.kashmir{
+    left: 1200px;
+    top: 2000px;
+}
+.kashmir:hover{
+    transform: scale(2.1);
+}
+.bangladesh{
+    left: 300px;
+    top: 2350px;
+}
+.bangladesh:hover{
+    transform: scale(2.2);
+}
+.bandarban{
+    left: 950px;
+    top: 2350px;
+}
+.bandarban:hover{
+    transform: scale(2.5);
+}
