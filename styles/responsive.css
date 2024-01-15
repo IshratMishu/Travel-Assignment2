@@ -6,6 +6,23 @@ header{
     margin: 65px 20px 0 20px;
     width: 100%;
 }
+
+.website-name{
+    display: flex;
+    align-items: center;
+    gap: 5px; 
+    /* width: 50%; */
+    margin-left: 100px; 
+}
+
+.website-name img{
+height: 33.516px;
+}
+
+.website-name h2{
+    font-size: 21px;
+}
+
 .menu-items{
         flex-direction: column;
     }
