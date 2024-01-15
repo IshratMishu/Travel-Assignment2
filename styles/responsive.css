@@ -3,8 +3,9 @@ body{
     max-width: 576px;
 }
 header{
-    margin: 65px 20px 0 20px;
-    width: 100%;
+    /* margin: 65px 5px 0 0 ; */
+    margin: 0 auto;
+
 }
 
 .website-name{
@@ -64,6 +65,23 @@ height: 33.516px;
     height: 50px;
     padding: 20px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
