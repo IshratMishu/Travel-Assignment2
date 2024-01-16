@@ -170,10 +170,38 @@ height: 33.516px;
 .service-container-3{
     margin-left: 0;
 }
+.newsletter{
+    padding-left: 20px;
+    margin: 0;
+}
+.newsletter-divs{
+    flex-direction: column;
+    gap: 24px;
+}
+.newsletter-containers{
+   margin-top: 20px;
+   width: 530px;
+}
 
+.save img{
+    width: 620px;
+}
 
+.savings{
+    padding: 40px;
+    width: 214.023px;
+    height: 79.268px;
+    position: absolute;
+    left: 320px;
+    top: 6630px;
+    transform: rotate(-24deg);
+    transition: transform;
+}
 
-
+.savings:hover{
+    transform: scale(1.1) rotate(-24deg);
+    
+}
 
 
 }
