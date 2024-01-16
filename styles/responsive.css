@@ -171,15 +171,16 @@ header{
 
 /* Unique section responsive */
 .different-section{
-    padding-left: 20px;
+    padding: 0;
     margin: 0;
 }
 
 .travel-box-container{
     grid-template-columns: repeat(1, 1fr);
     gap: 20px;
-    width:530px ;
+    width:500px ;
     border-style: none;
+    background-color: white;
 }
 
 /* newsletter section responsive */
