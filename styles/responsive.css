@@ -170,6 +170,19 @@ height: 33.516px;
 .service-container-3{
     margin-left: 0;
 }
+
+.different-section{
+    padding-left: 20px;
+    margin: 0;
+}
+
+.travel-box-container{
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    width:530px ;
+   border-style: none;
+}
+
 .newsletter{
     padding-left: 20px;
     margin: 0;
@@ -194,13 +207,13 @@ height: 33.516px;
     width: 620px;
 }
 
-.savings{
+.save .savings{
     padding: 40px;
     width: 214.023px;
     height: 79.268px;
     position: absolute;
     left: 300px;
-    top: 6600px;
+    top: 7950px;
     transform: rotate(-24deg);
     transition: transform;
 }
