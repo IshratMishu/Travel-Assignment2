@@ -11,6 +11,7 @@ header{
     display: flex;
     align-items: center;
     gap: 5px; 
+    margin-left: 20px;
 }
 
 .website-name img{
@@ -23,6 +24,7 @@ header{
 
 .menu-items{
         flex-direction: column;
+        margin-left: 300px;
 }
 
 .banner{
@@ -244,6 +246,8 @@ header{
 .footer-section .finish{
     margin-bottom: 20px;
 }
+
+
 
 }
 

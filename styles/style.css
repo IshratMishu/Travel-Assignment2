@@ -11,6 +11,7 @@ header{
 }
 
 /* Navigation Bar Setup Start */
+
 .website-name{
     display: flex;
     align-items: center;
@@ -18,7 +19,7 @@ header{
     width: 50%;
 }
 
-.website-name img{
+ .website-name img{
     height: 56.008px;
 }
 
@@ -55,7 +56,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
+}  
 
 /* Navigation Bar Setup End */
 
