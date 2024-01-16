@@ -182,6 +182,13 @@ height: 33.516px;
    margin-top: 20px;
    width: 530px;
 }
+.newsletter-containers .hr{
+    width: 410px;
+    margin-left: 10px;
+}
+.newsletter-field-button{
+   width: 430px;
+}
 
 .save img{
     width: 620px;
@@ -192,17 +199,52 @@ height: 33.516px;
     width: 214.023px;
     height: 79.268px;
     position: absolute;
-    left: 320px;
-    top: 6630px;
+    left: 300px;
+    top: 6600px;
     transform: rotate(-24deg);
     transition: transform;
 }
 
 .savings:hover{
-    transform: scale(1.1) rotate(-24deg);
+    transform: scale(1.2) rotate(-24deg);
     
 }
 
+.footer-section{
+    margin-top: 50px;
+    margin-right: 10px;
+    padding-top: 30px;
+    width: 800px; 
+    height: 300px; 
+    background: rgba(19, 19, 24, 0.05);
+    text-align: center;
+}
+.website-name-2{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+}
+.website-name-2 h2{
+    color: #131318;
+    font-size: 26px;
+    font-weight: 800;
+}
+
+.website-name-2 h2 .website-name-color{
+    color: #FF5400;
+}
+.footer-section .img-2{
+            margin-top: 30px;
+            margin-bottom: 30px;
+}
+.footer-section .hr-2{
+    margin-bottom: 20px;
+    width: 300px;
+}
+.footer-section .finish{
+    margin-bottom: 20px;
+}
 
 }
 

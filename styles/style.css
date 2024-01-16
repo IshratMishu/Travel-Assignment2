@@ -370,5 +370,41 @@ padding-left: 10px;
 
 .savings:hover{
     transform: scale(1.3) rotate(-25deg);
-    
+}
+
+/* footer style */
+.footer-section{
+    margin-top: 50px;
+    margin-right: 10px;
+    padding-top: 30px;
+    width: 1500px; 
+    background: rgba(19, 19, 24, 0.05);
+    text-align: center;
+    height: 500px;
+}
+.website-name-2{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+}
+.website-name-2 h2{
+    color: #131318;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.website-name-2 h2 .website-name-color{
+    color: #FF5400;
+}
+.footer-section .img-2{
+            margin-top: 50px;
+            margin-bottom: 50px;
+}
+.footer-section .hr-2{
+    margin-bottom: 50px;
+    width: 900px;
+}
+.footer-section .finish{
+    margin-bottom: 100px;
 }
