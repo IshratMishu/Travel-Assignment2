@@ -356,7 +356,7 @@ padding: 16px 250px 16px 20px;
     padding: 30px;
     position: absolute;
     left: 1100px;
-    top: 3600px;
+    top: 4300px;
     transform: rotate(-25deg);
     transition: transform;
 }
@@ -436,4 +436,16 @@ padding-left: 10px;
     height: 250px;
     overflow-y: auto;
     padding: 0 0 20px 20px;
+}
+.b-margin{
+    text-align: center;
+    /* margin-top: 5px;
+    margin-bottom: 0; */
+}
+.popular-tour-guide-1{
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 5px;
+    
 }
