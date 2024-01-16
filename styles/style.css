@@ -132,9 +132,10 @@ nav{
     top: 500px;
     left: 740px;
 }
+/* header style end */
 
-/* first section style */
 
+/* first main section style */
 .first-main-section{
     display: flex;
     margin: 50px 135px 0 135px;
@@ -174,8 +175,8 @@ nav{
     padding: 14px 34px;
 }
 
-/* second section */
 
+/* main second section style */
 .destination-section{
     margin: 50px 135px 0 135px;
     width: 100%;
@@ -266,7 +267,8 @@ nav{
     transform: scale(2.5);
 }
 
-/* third section style */
+
+/* main third section style */
 .service-section{
     margin: 50px 135px 0 135px;
     width: 100%;
@@ -312,6 +314,8 @@ nav{
     width: 540px;
     margin-left: 350px;
 }
+
+
 /* fourth section style-unique section */
 .different-section{
     margin: 50px 135px 0 135px;
@@ -343,8 +347,6 @@ nav{
 }
 .b-margin{
     text-align: center;
-    /* margin-top: 5px;
-    margin-bottom: 0; */
 }
 .popular-tour-guide-1{
     color: rgba(19, 19, 24, 0.70);
@@ -353,7 +355,8 @@ nav{
     margin-bottom: 5px;
 }
 
-/* fifth section style */
+
+/* main fifth section style */
 .newsletter{
     margin: 50px 135px 0 135px;
     width: 100%;
@@ -372,6 +375,7 @@ nav{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
 .newsletter-field{
     border-radius: 8px;
 background: rgba(19, 19, 24, 0.05);
@@ -380,6 +384,7 @@ display: block;
 gap: 16px;
 padding: 16px 250px 16px 20px;
 }
+
 .newsletter-field-button{
     border-radius: 8px;
     background: #FF5400;
@@ -412,8 +417,10 @@ padding-left: 10px;
 .savings:hover{
     transform: scale(1.3) rotate(-25deg);
 }
+/* main section end */
 
-/* footer style */
+
+/* footer style start */
 .footer-section{
     margin-top: 50px;
     margin-right: 10px;
@@ -450,3 +457,4 @@ padding-left: 10px;
     margin-bottom: 100px;
 }
 
+/* footer style end */
