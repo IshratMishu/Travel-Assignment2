@@ -173,6 +173,7 @@ nav{
     padding: 14px 34px;
 }
 
+/* destination section */
 
 .destination-section{
     margin: 50px 135px 0 135px;
@@ -197,7 +198,7 @@ nav{
     padding-right: 0;
 }
 
-
+/* text on image and hover */
  .maldives, .indonesia, .srilanka, .northamerica, .kashmir, .bangladesh, .bandarban
   {
     text-align: center;
