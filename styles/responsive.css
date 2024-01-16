@@ -160,7 +160,16 @@ height: 33.516px;
     transform: scale(2.1);
 }
 
-
+.service-section{
+    padding-left: 20px;
+    margin: 0;
+}
+.service-container{
+    flex-direction: column;
+}
+.service-container-3{
+    margin-left: 0;
+}
 
 
 

@@ -132,7 +132,7 @@ nav{
     left: 740px;
 }
 
-/* Main section starts */
+/* first section style */
 
 .first-main-section{
     display: flex;
@@ -173,7 +173,7 @@ nav{
     padding: 14px 34px;
 }
 
-/* destination section */
+/* second section */
 
 .destination-section{
     margin: 50px 135px 0 135px;
@@ -263,4 +263,50 @@ nav{
 }
 .bandarban:hover{
     transform: scale(2.5);
+}
+
+/* third section style */
+.service-section{
+    margin: 50px 135px 0 135px;
+    width: 100%;
+}
+.service-section-description{
+    text-align: center;
+}
+
+.popular-tour-1{
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+}
+.service-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+.grid{
+    display: grid;
+    gap: 24px;
+}
+.service-container-1{
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    padding: 32px;
+    width: 570px;
+}
+.service-container-2{
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+    padding: 32px;
+    width: 570px;
+}
+.service-container-3{
+    border-radius: 16px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+    padding: 32px;
+    width: 570px;
+    margin-left: 350px;
 }
